@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://tonde.io/logo.png" width="140" alt="TONDE Logo"/>
+<img src="https://drive.google.com/uc?export=view&id=1_I2W8zZTpvL9thyD7Q_P5BrncOFfiMLr" width="140" alt="TONDE Logo"/>
 
 # TONDE
 
